@@ -68,12 +68,19 @@ pip install -r requirements.txt
 
 1. Python 3.x
 2. Libraries:
+   
       1.pandas
+   
       2.numpy
+   
       3.matplotlib
+   
       4.seaborn
+   
       5.scikit-learn
+   
       6.jupyter
+   
 
 📈 Key Outcomes
 
@@ -86,7 +93,3 @@ pip install -r requirements.txt
 
 This project is released under the MIT License.
 You are free to use, modify, and distribute it with attribution.
-
----
-
-Would you also like me to prepare a **minimal `requirements.txt`** (just the needed libraries listed cleanly) so you can upload it alongside this README?
