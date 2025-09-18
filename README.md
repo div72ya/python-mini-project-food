@@ -45,10 +45,12 @@ The tasks for this mini project are as follows:
 
 👉 Please unzip `food_dely.csv.zip` before running the notebook.  
 
-```python
+
 import zipfile
 with zipfile.ZipFile("data/food_dely.csv.zip", "r") as zip_ref:
     zip_ref.extractall("data/")
+    
+---
 
 ⚙️ How to Run
 
